@@ -91,7 +91,7 @@ Gradio Streaming UI
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ParthaName/agent-conversation
 cd agent-conversation
 ```
 
